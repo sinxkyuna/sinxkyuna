@@ -5,12 +5,8 @@ i program in: java, c#, html, kotlin, js, lua, python and (learnin) c++.
 
 oops did i ragebait u??
 # wthelly is ur purpose?
-i dev for: [Simp](https://github.com/shxzu/Simp), [Xiva](https://clovr.store), and [Ambien V2 (HEAVY WIP)](https://github.com/shxzu/Ambien-V2).
+i dev mc java cheats, renpy games, python utility scripts, n more but im too lazy to list.
 # can u work 4 me u slave?
 uhh. hmu and ill talk wit u abt it. i usuly dnt do anythin without $$$, but im pushable.
 # how can i harrass u?
-Discord - shxzu
-
-YT: shxzufr
-
-Minecraft (ig?): shxzu_
+discord: shxzu
