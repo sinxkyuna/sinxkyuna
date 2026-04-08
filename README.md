@@ -9,4 +9,4 @@ i dev mc java cheats, renpy games, python utility scripts, n more but im too laz
 # can u work 4 me u slave?
 uhh. hmu and ill talk wit u abt it. i usuly dnt do anythin without $$$, but im pushable.
 # how can i harrass u?
-discord: shxzu
+discord: x0lumie
