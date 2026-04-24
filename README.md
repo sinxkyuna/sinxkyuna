@@ -8,7 +8,7 @@ I am a 16 year old sophmore game and software developer. I proficently develop i
   - Linux,
   - and Video Games.
 
-  <img width="100" height="100" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
+  - <img width="100" height="100" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
 
 # Where to reach out?
 Discord: x0lumie
