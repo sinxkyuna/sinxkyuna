@@ -4,10 +4,10 @@ I am a 16 year old sophmore **video game** and **software** developer.
 I proficiently develop in **Java, CSS, HTML, and Python**.
 
 I have been known in the past to go by different names, you may know me as the following users:
-  shxzu or shxzufr
-  xzokiaa or zokia
-  Zokxxa
-  Aikoz
+ - shxzu or shxzufr
+ - xzokiaa or zokia
+ - Zokxxa
+ - Aikoz
 
 ## I am interested in: 
   - Developing And Playing Visual Novels
