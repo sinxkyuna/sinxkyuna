@@ -21,10 +21,11 @@ I proficiently develop in **Java, CSS, HTML, and Python**.
 
 **YouTube:** x0lumieYT
 
+<img width="200" height="200" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
+
+
 **I have been known in the past to go by different names, you may know me as the following users:**
  - shxzu or shxzufr
  - xzokiaa or zokia
  - Zokxxa
  - Aikoz
-
-<img width="200" height="200" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
