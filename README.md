@@ -1,31 +1,49 @@
-# Who is lumie?
-I am a 16 year old sophmore **video game** and **software** developer. 
+# ✨ Yo, I'm lumie.
 
-I proficiently develop in **Java, CSS, HTML, and Python**.
+[![Profile Views](https://komarev.com/ghpvc/?username=x0lumie&label=Profile%20views&color=blueviolet)](https://github.com/x0lumie)
+[![Discord](https://img.shields.io/badge/Discord-x0lumie-7289da?logo=discord&logoColor=white)](https://discord.com/users/your-user-id) <!-- Replace with your Discord user URL if you like -->
+[![YouTube](https://img.shields.io/badge/YouTube-x0lumieYT-ff0000?logo=youtube&logoColor=white)](https://youtube.com/@x0lumieYT)
 
-## I am interested in: 
-  - Developing And Playing Visual Novels
-  - Call Of Duty (Mainly Older Titles)
-  - Software/Game Development
-  - Reverse Engineering
-  - Linux Distros
-  - Anime
+---
 
-## Project Showcase
-<img width="400" src="https://raw.githubusercontent.com/x0lumie/dotfiles/master/ss2.png">
+## About Me
 
-**More coming soon™**
+👾 I’m a 16-year-old **sophomore** passionate about **video game** and **software** development.
 
-## Where to reach out?
-**Discord:** x0lumie
+- 🖥️ **Languages:**  
+  ![Java](https://img.shields.io/badge/-Java-3776AB.svg?logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white)  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- 🌟 **Interests:** Visual novels, Call of Duty (mainly older titles), game/software dev, reverse engineering, Linux distros, anime
 
-**YouTube:** x0lumieYT
+---
 
+## 🚀 Project Showcase
 
-**I have been known in the past to go by different names, you may know me as the following users:**
- - shxzu or shxzufr
- - xzokiaa or zokia
- - Zokxxa
- - Aikoz
+<a href="https://github.com/x0lumie/dotfiles">
+  <img width="400" alt="dotfiles screenshot" src="https://raw.githubusercontent.com/x0lumie/dotfiles/master/ss2.png">
+</a>
 
-<img width="200" height="200" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
+*More coming soon™...*
+
+---
+
+## 📬 Connect
+
+- **Discord:** `x0lumie`
+- **YouTube:** [x0lumieYT](https://youtube.com/@x0lumieYT)
+<!-- Add other socials if you like (e.g., Twitter, Email, etc.) -->
+
+---
+
+## ⌛ Past Usernames
+
+- shxzu / shxzufr
+- xzokiaa / zokia
+- Zokxxa
+- Aikoz
+
+---
+
+<img width="200" height="200" alt="Cool Mouse" src="https://clipart-library.com/images/8czK8Kpdi.jpg">
