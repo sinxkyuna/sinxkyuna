@@ -8,7 +8,7 @@
 
 ## About Me
 
-👾 I’m a 16-year-old **sophomore** passionate about **video game** and **software** development.
+👾 I’m a 16-year-old **in my junior year of high school** passionate about **video game** and **software** development.
 
 - 🖥️ **Languages:**  
   ![Java](https://img.shields.io/badge/-Java-3776AB.svg?logo=java&logoColor=white)  
