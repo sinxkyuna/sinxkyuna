@@ -1,8 +1,9 @@
 # ✨ Yo, I'm lumie.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=x0lumie&label=Profile%20views&color=blueviolet)](https://github.com/x0lumie)
 [![Discord](https://img.shields.io/badge/Discord-x0lumie-7289da?logo=discord&logoColor=white)](https://discord.com/users/966584910104129556)
 [![YouTube](https://img.shields.io/badge/YouTube-x0lumieYT-ff0000?logo=youtube&logoColor=white)](https://youtube.com/@x0lumieYT)
+
+<img src="https://count.getloli.com/@x0lumie?theme=booru-lisu" />
 
 ---
 
