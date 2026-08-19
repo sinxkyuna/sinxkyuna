@@ -1,4 +1,4 @@
-https://euphoria.rip
+`i develop minecraft clients, small web projects, python utility scripts, xbox 360 ports, and my own visual novels.`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
