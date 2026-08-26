@@ -15,8 +15,6 @@
 
 ---
 
-### tech stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/java-CFA9FF?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/python-BFA2FF?style=for-the-badge&logo=python&logoColor=fff4b0" />
