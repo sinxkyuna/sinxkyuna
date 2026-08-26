@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=C8A2FF&center=true&vCenter=true&width=700&lines=kawaii+webcore+developer;minecraft+mods+%E2%9C%A6+python+tools+%E2%9C%A6+visual+novels;soft+lavender+chaos+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=C8A2FF&center=true&vCenter=true&width=700&lines=xbox+360+enthusiast;minecraft+cheats+%E2%9C%A6+python+tools+%E2%9C%A6+visual+novels;vibecoded+garbage+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 ---
